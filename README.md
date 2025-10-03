@@ -1,0 +1,2 @@
+# Varibles
+introduction about javascript
